@@ -3499,7 +3499,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnTime: 1
-  spwanGameObject: {fileID: 3702649603177188929, guid: 166f69c5531c1a14b9623786c2765a98, type: 3}
+  spwanGameObject: {fileID: 2336559486550520908, guid: acf3c1daf6b903d4889356d3c6530992, type: 3}
   spawnPoints:
   - {fileID: 17637212}
   - {fileID: 649864043}

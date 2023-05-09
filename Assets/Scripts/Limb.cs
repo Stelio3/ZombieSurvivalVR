@@ -12,7 +12,7 @@ public class Limb : MonoBehaviour
         if (childLimb != null)
             childLimb.Hit();
 
-        transform.localScale= Vector3.one;
+        transform.localScale= Vector3.zero;
 
         GameObject spawnedLimb = Instantiate(limbPrefab, transform.parent);
         spawnedLimb.transform.parent = null;

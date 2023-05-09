@@ -1201,7 +1201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aee5660c83ccdaa43b6471de36eb0077, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fatal: 0
+  fatal: 1
   limbPrefab: {fileID: 2356323405229593860, guid: d481a81d19b154541a40807c076080c5, type: 3}
 --- !u!1 &3702649603177188919
 GameObject:
@@ -1474,7 +1474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aee5660c83ccdaa43b6471de36eb0077, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fatal: 0
+  fatal: 1
   limbPrefab: {fileID: 7004867227619827302, guid: 2b6730a494b316b4ea1234a54a77757b, type: 3}
 --- !u!1 &3702649603177188929
 GameObject:
@@ -1511,7 +1511,7 @@ Transform:
   - {fileID: 3702649603176895075}
   - {fileID: 3702649603176894997}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &3702649603184622977
 Animator:
@@ -1969,7 +1969,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aee5660c83ccdaa43b6471de36eb0077, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fatal: 0
+  fatal: 1
   limbPrefab: {fileID: 6972380806135326204, guid: 912a10661228e664f8bc69f490aabf46, type: 3}
 --- !u!1 &3702649603177188937
 GameObject:
@@ -3002,7 +3002,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aee5660c83ccdaa43b6471de36eb0077, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fatal: 0
+  fatal: 1
   limbPrefab: {fileID: 1892079411456684255, guid: cb3ee92992dd7e743b2154fb767ebf65, type: 3}
 --- !u!1 &3702649603177189355
 GameObject:
@@ -3275,7 +3275,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aee5660c83ccdaa43b6471de36eb0077, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fatal: 0
+  fatal: 1
   limbPrefab: {fileID: 3066272515374197512, guid: a0dfa898f6c1d5841a24670e613b90cb, type: 3}
 --- !u!1 &3702649603177189365
 GameObject:
